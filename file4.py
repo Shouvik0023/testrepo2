@@ -1,1 +1,1 @@
-print("Deathnote")
+print("Deathnote - shinigami")
