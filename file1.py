@@ -1,1 +1,1 @@
-print("naruto")
+print("naruto - ninja")
