@@ -1,1 +1,1 @@
-print("one piece")
+print("one piece - Pirate")
